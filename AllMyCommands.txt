@@ -1,0 +1,19 @@
+
+1- git init ( initialization) 
+2- git add FirstFile.txt
+Git add SecondFile.txt
+git add ThirdFile.txt 
+3-git config 
+4- git status 
+5-git commit -m “message” 
+6- git rm Filename 
+7- git branch branch name 
+8- git checkout branch name
+9- git merge branch name 
+10- git log 
+11- git revert 
+12-git push -f 
+13- git remote add origin url 
+14- git remote -v 
+15- touch filename 
+16- vim filename 
